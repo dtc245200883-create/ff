@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sử dụng thẻ hình ảnh trong HTML</title>
+</head>
+<body>
+    <h1>Bài tập hiển thị hình ảnh</h1>
+
+    <!-- Sử dụng thẻ img với thuộc tính src và alt mô tả hình ảnh đầy đủ -->
+    <img src="https://picsum.photos/600/400" alt="Hình ảnh phong cảnh thiên nhiên đẹp mắt" width="600" height="400">
+
+</body>
+</html>
